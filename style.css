@@ -1,0 +1,124 @@
+.name{
+    color:red;
+    font-size: 60px;
+   
+}
+body{
+    margin: 60px;
+    font-family: 'Roboto Mono', ;
+}
+h2{
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+  color: rgba(0, 0, 0, 0.61);
+ 
+    
+}
+.link{
+    
+    text-decoration: none;
+    padding: 10px 20px;
+  background-image: linear-gradient(pink,red);
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+.top{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.first-top{
+    background-image: url("image/header-bg.png");
+    background-repeat: no-repeat;
+    
+}
+.top img{
+    width: 100%;
+}
+#mar{
+    margin-bottom: 50px;
+}
+h3{
+    font-size: 60px;
+}
+#Bio{
+    margin-bottom: 50px;
+}
+.middle{
+    background-image: url("image/biography-bg.png");
+    background-repeat: no-repeat;
+
+}
+.tom{
+    margin-left: 2%;
+    padding-left: 1%;
+    float:left;
+    width: 30%;
+   
+    
+}
+.tom img {
+    width: 100%;
+}
+.middle2{
+    margin-top: 400px;
+
+
+
+}
+#last{
+    text-align: center;
+    font-size: 60px;
+}
+.last2{
+    margin-top: 400px;
+}
+#last3{
+    text-align: center;
+    font-size: 60px;
+    margin-bottom: 150px;
+}
+h5{
+    text-align: center;
+    font-size: 30px;
+}
+#foun{
+    text-align: center;
+}
+.name2{
+    text-align: center;
+    font-size: 15px;
+  
+}
+#name3{
+    margin-bottom: 100px;
+
+}
+.boder{
+    background-color: salmon;
+    margin-left: 27%;
+    width: 50%;
+    height: 40%;
+    text-align: center;
+    padding: 5px 2px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+  }
+  #bold{
+      font-weight: 700;
+      font-size: 25px;
+  }
+footer{
+    text-align: center;
+}
+#bold:hover{
+    color: red;
+}
+#foun:hover{
+    color: rosybrown;
+}
